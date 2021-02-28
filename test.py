@@ -4,5 +4,5 @@ print("2")
 
 print("Shenbo says hi")
 
-def add(arg1, arg2):
-  return arg1 + arg2
+def add(var1, var2):
+  return var1 + var2
